@@ -16,5 +16,11 @@
 		"name_tag" : "txt_level_3",
 		"thumbnail_tag" : "img_thumbnail_3",
 		"image_src" : "img_level_3.svg"
+	},
+	{ 
+		"id": 4,
+		"name_tag" : "txt_level_4",
+		"thumbnail_tag" : "img_thumbnail_4",
+		"image_src" : "img_level_4.svg"
 	}
 ]
